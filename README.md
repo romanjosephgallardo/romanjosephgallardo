@@ -9,9 +9,7 @@ I'm **Roman Joseph Gallardo**, a Computer Engineering student based on Philippin
 
 • ⚙️ Passionate about: Ethics in technology, programming with purpose, and continuous learning
 
----
 *Socials:*
-
 LinkedIn: https://www.linkedin.com/in/roman-joseph-gallardo/
 
 Instagram: https://www.instagram.com/romanramonroman/
