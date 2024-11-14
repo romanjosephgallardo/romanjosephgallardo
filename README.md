@@ -1,7 +1,7 @@
 
 ## **Hey there!** 👋
 
-I'm **Roman Joseph Gallardo**, a Computer Engineering student based on Philippines. I'm currently learning Web Development and Data Structures.
+I'm **Roman Joseph Gallardo**, a Computer Engineering student based in the Philippines. I'm currently learning Web Development and Data Structures.
 
 • 🎓 Student learning programming
 
