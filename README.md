@@ -10,6 +10,7 @@ I'm **Roman Joseph Gallardo**, a Computer Engineering student from the Philippin
 • 📚 Continuously learning modern development tools, frameworks, and collaborative workflows
 
 *Socials:*
+
 LinkedIn: https://www.linkedin.com/in/roman-joseph-gallardo/
 
 Instagram: https://www.instagram.com/romanramonroman/
