@@ -1,18 +1,14 @@
 
 ## **Hey there!** 👋
 
-I'm **Roman Joseph Gallardo**, a Computer Engineering student based in the Philippines. I'm currently learning Web Development and Data Structures.
+I'm **Roman Joseph Gallardo**, a Computer Engineering student from the Philippines with interests in software development, embedded systems, and front-end web development. Experienced in academic and project-based work involving web applications, Arduino/ESP32 systems, and digital logic design.
 
-• 🎓 Student learning programming.
-
-• 📚 Currently focused on: Python, Web Development, and Data Structures.
-
-• 🛠️ Exploring simple projects like interactive web apps and basic tools to strengthen my skills.
+• 💻 Interested in software development, UI design, and systems integration
+• 🛠️ Currently working on projects involving web technologies, embedded systems, and hardware-software integration
+• 📚 Continuously learning modern development tools, frameworks, and collaborative workflows
 
 *Socials:*
-
 LinkedIn: https://www.linkedin.com/in/roman-joseph-gallardo/
-
 Instagram: https://www.instagram.com/romanramonroman/
 
 <!---
